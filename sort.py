@@ -8,8 +8,9 @@ def insertion_sort(arr):
             arr[j+1]=key
         
 #example usage
-arr = [12,11,13,5,6,9,8,2,4,15,21]
+arr = [8,25,65,9,7,21,5,9,1,14,18]
 insertion_sort(arr)
-
 print("sorted array is:",arr)
-9
+
+
+
